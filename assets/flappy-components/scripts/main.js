@@ -3,7 +3,7 @@ const canvas = document.getElementById('flappy-c');
 const ctx = canvas.getContext('2d');
 
 // sets the image directory for the image components
-const IMAGE_DIRECTORY = '/assets/flappy-components/statics/';
+const IMAGE_DIRECTORY = '/SimAI/assets/flappy-components/statics/';
 
 // imports the NEAT library
 const { NEAT, activation, crossover, mutate } = require('neat_net-js');
