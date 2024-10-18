@@ -1,4 +1,4 @@
-class Bird {
+class Bird { 
   constructor() {
 
     // x and y position of birds
